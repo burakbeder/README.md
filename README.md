@@ -25,5 +25,12 @@
 
 
 
+
 [instagram]: https://instagram.com/burakkk_beder
 [linkedin]: https://linkedin.com/in/burakbeder
+<br >
+<br >
+<br >
+<br >
+![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=BurakBeder&show_icons=true&theme=radical)
+ 
