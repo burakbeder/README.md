@@ -1,7 +1,7 @@
 ### Hi there, I'm Burak 👋
 <img src="https://miro.medium.com/max/3200/1*0KFB17_NGTPB0XWyc4BSgQ.jpeg" width="auto">
-  --->    I'm a Student of CE!!
-
+ 
+### 💻I'm a student of CE!!💻
 - 🔭 I'm in 3rd year computer engineering
 - 🌱 I’m currently want to learning everything 🤣
 - 🥅 2021 Goals: Learn Something New
